@@ -1,0 +1,8 @@
+D:\vs\Project1\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\vs\Project1\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+D:\vs\Project1\Project2\Project2\x64\Debug\Project2.MyForm.resources
+D:\vs\Project1\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+D:\vs\Project1\Notations Converter\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\vs\Project1\Notations Converter\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+D:\vs\Project1\Notations Converter\Project2\x64\Debug\Project2.MyForm.resources
+D:\vs\Project1\Notations Converter\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
